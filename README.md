@@ -1,2 +1,2 @@
 # Instagram-Reels-Downloader
-Your friendly neighbourhood Instagram Scraper, here to download some stuff for you.
+I had a lot of videos, posts, and reels which was lying inside the "Saved Posts" section on my instagram. So one afternoon I thought, why not just download everything for fun. So, obviuosly I am not mad enough to copy links of each of the 15k posts saved in my profile (yes, that's a lot!), so I designed a scraper which can do some stuff, scroll through some stuff, click some stuff automatically to get those big and scary links of the posts, and then.. you know.. to download it!
